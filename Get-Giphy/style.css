@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(220, 220, 245);
+}
+
+#inputSec{
+    width: 830px;
+    height: 30px;
+    font-size: 30px;
+}
+
+#inputButton{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#inputBtn{
+    font-size: 16px;
+    border: none;
+    padding: 10px;
+}
